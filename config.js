@@ -17,7 +17,7 @@ global.APIKeys = {
 }
 
 //Owner React
-global.OWNER_REACT = '😉' //මෙතනට emoji එකක දාන්න.
+global.OWNER_REACT = '🌾' //මෙතනට emoji එකක දාන්න.
 global.REACT_NUMBER = '94789143626' //මෙතන number එක.
 
 // Other
@@ -55,7 +55,7 @@ global.f6 = 'application/vnd.android.package-archive' //මෙතන මාර�
 global.author = 'KING BOT INC' //මෙතන නම.
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text=' //මෙතන මාරු කරන්න එපා.
 global.sessionName = 'session' //මෙතන මාරු කරන්න එපා.
-global.prefa = ['','!','.','🐦','🐤','🗿'] //මෙතන මාරු කරන්න එපා.
+global.prefa = ['','!','.','🥺','🐤','🗿'] //මෙතන මාරු කරන්න එපා.
 global.sp = '😉' //මෙතන emoji එකක්.
 global.mess = {
     success: '*හරි*',
